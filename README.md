@@ -1,2 +1,2 @@
-# -CodeDeployGitHubDemo.
- CodeDeployGitHubDemo.
+# -CodeDeployGitHubDemo
+ CodeDeployGitHubDemo
